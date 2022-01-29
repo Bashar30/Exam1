@@ -99,3 +99,4 @@ No. 	Omschrijving 	 	 	 	Actie
 3 	FortiGate Polices 	yes 	Geen impact 	Geen risico 	Policy toevoegen of een verwijderen 
 5 	Acces point Niet goed geconfigureerd 	yes 	Geen draadloze en internet 	Geen wifi 	Configuratie checken 
 6 	Brand 	Yes 	Alles defect 	Op alle apparaten 	Alle netwerk apparaten en infrastructuur opnieuw gebouwd moet worden 
+
