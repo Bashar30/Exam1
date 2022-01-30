@@ -99,4 +99,26 @@ No. 	Omschrijving 	 	 	 	Actie
 3 	FortiGate Polices 	yes 	Geen impact 	Geen risico 	Policy toevoegen of een verwijderen 
 5 	Acces point Niet goed geconfigureerd 	yes 	Geen draadloze en internet 	Geen wifi 	Configuratie checken 
 6 	Brand 	Yes 	Alles defect 	Op alle apparaten 	Alle netwerk apparaten en infrastructuur opnieuw gebouwd moet worden 
+****
+2.	Project Management 
+2.1.	Planning-Tijd 
+![image](https://user-images.githubusercontent.com/97803920/151704107-fa4bf07a-32dc-4084-a447-dbd07b08072e.png)
+2.2.	Organisatie 
+Stuurgroep: Sander De Groot 
+ Projectgroep: Bashar Almassarra en Wassim kabash
+ ********
+ 2.3.	Kosten 
+![image](https://user-images.githubusercontent.com/97803920/151704307-50d75211-d31d-4033-9637-b15a0fe07080.png)
+*******
+2.4.	Kwaliteit 
+De opdrachtgever geeft aan of hij tevreden is over de geleverde apparatuur en verbindingen als alle  
+*****
+2.5.	Informatie 
+De projectmanager informeert en rapporteert aan de opdrachtgever. De opdrachtgever informeert overige stake-holders
+
+
+
+*****
+
+
 
